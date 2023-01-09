@@ -1,0 +1,2 @@
+print('Audrey Hepburn once said, "You can tell more about a person by what he says about others') 
+print('than you can by what others say about him."') #this code prints the quote and the name of its author in a string assigned to a variable
